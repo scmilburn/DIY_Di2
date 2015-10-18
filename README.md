@@ -7,21 +7,20 @@ shifting logic.
 
 For my microcontroller, I am using a 5v 16 MHz Pro Trinket(Atmega328P chip) from Adafruit.
 
-###ADVANTAGES####:
+####ADVANTAGES:
 * Low cost compared to off-the-shelf electronic groupsets
 * Improved, simplified shifting logic to mechanical systems. Similar to SRAM ETap
 * Never have to replace cable as in mechanical systems
 
-####EXTENDED FEATURES####:
+####EXTENDED FEATURE:
 * LCD display of current gear
 * Compute current gear ratio by hardcoding amount of gear teeth on each cog
 * Include an accelerometer to track speed
 * Autoshift, making a wise decision based on speed, to maintain an ideal cadence 
 
-![](https://github.com/scmilburn/DIY_Di2/img/front.jpg)
-front derailleur
-![](https://github.com/scmilburn/DIY_Di2/img/rear.jpg)
-rear derailleur 
+![img](https://raw.github.com/scmilburn/DIY_Di2/img/front.jpg "front derailleur")
+
+![img](https://raw.github.com/scmilburn/DIY_Di2/img/rear.jpg "rear derailleur")
 
 <git clone https://github.com/scmilburn/DIY_Di2.git>
 
