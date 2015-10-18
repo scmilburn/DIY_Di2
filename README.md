@@ -18,10 +18,6 @@ For my microcontroller, I am using a 5v 16 MHz Pro Trinket(Atmega328P chip) from
 * Include an accelerometer to track speed
 * Autoshift, making a wise decision based on speed, to maintain an ideal cadence 
 
-![alt tag](https://raw.github.com/scmilburn/DIY_Di2/img/front.jpg "front derailleur")
-
-![alt tag](https://raw.github.com/scmilburn/DIY_Di2/img/rear.jpg "rear derailleur")
-
-<git clone https://github.com/scmilburn/DIY_Di2.git>
+`git clone https://github.com/scmilburn/DIY_Di2.git`
 
 Simon Milburn 2015
