@@ -5,7 +5,7 @@ I'll be adding functionality in freetime. This repo will include my sketches for
 servo mounts for both the front and rear derailler. It will also include my code for the 
 shifting logic.
 
-For my microcontroller, I am using a 5v 16 MHz Pro Trinket(Atmega328P chip) from Adafruit.
+For my microcontroller, I am using a 5v 16 MHz [Pro Trinket](https://learn.adafruit.com/introducing-pro-trinket/pinouts)(Atmega328P chip).
 
 ####ADVANTAGES:
 * Low cost compared to off-the-shelf electronic groupsets
